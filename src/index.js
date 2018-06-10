@@ -16,4 +16,4 @@ app.router(() => <Count/>);
 
 app.start('#count');
 
-app._store
+
